@@ -1,0 +1,27 @@
+1. What is meant by multiple inheritance?
+C: Deriving a derived class from more than one base class
+
+2. Which symbol is used to create multiple inheritance?
+B: Comma
+
+3. Which advantages do we lose by using multiple inheritance?
+C: Dynamic Binding & Polymorphism (?)
+
+4. In ______ inheritance, the constructors are executed in the order of inheritance
+Multiple
+
+5. What is the output of the program?
+C. 20
+   10
+
+6. What is the output of the program?
+B. DerivedTwo (???)
+
+7. What is the output of the program?
+B. 3010
+
+8. What is the output of the program?
+B. Error (?)
+
+9. What is the output of the program?
+C. 100 & 200
